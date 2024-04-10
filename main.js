@@ -1,2 +1,3 @@
-import './css/style-2.css' 
+/*import './css/style1.css'*/ 
+ import './css/style2.css' 
 
