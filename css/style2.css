@@ -102,15 +102,9 @@ body {
     
     /* animacionnose */
     
-    
-    view-timeline-name: --image;
-    view-timeline-axis: block;    
-    animation-timeline: --image;
     animation-name:show;
-    animation-range: entrey 25% cover 50%;
     animation-fill-mode:both;
     animation-duration: 2s;
-
 
 }
 
